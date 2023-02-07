@@ -16,9 +16,13 @@
 
 This is the Final Project at USC.
 
-### Focus on Apple Stock(AAPL) and Google Stock(GOOG) during Covid-19 Pandemic.
+### Focus on Apple Stock(AAPL) and Google Stock(GOOG).
 
 1. Autoregressive Integrated Moving Average (ARIMA)
 2. Long Short-Term Memory (LSTM)
 
+## AAPL & GOOG stock price
+![data_science](Picture1.jpg)
 
+## LSTM model parameters
+![data_science](Picture2.jpg)
