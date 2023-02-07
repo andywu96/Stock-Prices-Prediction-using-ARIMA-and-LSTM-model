@@ -22,7 +22,7 @@ This is the Final Project at USC.
 2. Long Short-Term Memory (LSTM)
 
 ## AAPL & GOOG stock price
-![data_science](Picture1.jpg)
+![data_science](Picture1.png)
 
 ## LSTM model parameters
-![data_science](Picture2.jpg)
+![data_science](Picture2.png)
